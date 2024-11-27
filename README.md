@@ -40,6 +40,12 @@ I tried to build an app with a structure kinda similar to Django, starting by cr
 
 All in all, it’s been a fun challenge! 😎
 
+## About tests
+
+I'm turning this in on the deadline day 'cause I spotted the job posting on HH last minute, so I didn't have time to write tests 😅.
+
+Instead, I'll briefly explain how I'd approach them. Using OOP, I'd write test classes for each CRUD operation, relying on assert to validate outcomes. I'd also check edge cases like empty input, invalid data, or nonexistent IDs to make sure everything behaves as expected. The idea is to keep it simple but solid enough to cover the basics. 🚀
+
 
 
 
